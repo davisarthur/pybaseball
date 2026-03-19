@@ -1,5 +1,7 @@
 # 2024 MLB Regular Season Standings
 
+Generated using pybaseball's `standings()` function.
+
 ## AL East
 
 | Rank | Team | W | L | W-L% | GB |
@@ -63,8 +65,5 @@
 ## Summary
 
 - **Best Record**: Los Angeles Dodgers (98-64, .605)
-- **Second Best**: Philadelphia Phillies (95-67, .586)
-- **Third Best**: New York Yankees (94-68, .580)
 - **Worst Record**: Chicago White Sox (41-121, .253)
-
-Generated using [pybaseball](https://github.com/davisarthur/pybaseball) standings utility function.
+- **Division Winners**: Yankees (AL East), Guardians (AL Central), Astros (AL West), Phillies (NL East), Brewers (NL Central), Dodgers (NL West)
